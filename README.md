@@ -6,6 +6,7 @@ Tugas:
  - Buat rangkaian simulasi menggunakan simulide untuk 2 lampu LED yang menyala bergantian, masing-masing menyala selama 2 detik
  - buat programnya, lalu ujicobakan ke rangkaian simulide
  - kirim file program dan rangkaian ke email budi.santoso@asia.ac.id (dengan nama dan NIM), subject: mk2018
+ - lihat contoh delay di timer.pdf
  
 ## 10 Desember 2018:
    - Resume file tugasresume_mk.pdf, pada lembar jawaban dengan **tulis tangan**
