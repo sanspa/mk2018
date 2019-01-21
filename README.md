@@ -1,6 +1,10 @@
 # Mata Kuliah Mikrokontroler 2018/2019
 ___
 Tugas: 
+## 21 Januari 2019
+- Pelajari dan coba program dan rangkaian pada file pelajaridancoba.pdf
+- Ini bahan untuk UAS
+
 ## 14 Januari 2018
  - install simulide di komputer anda (download di https://sourceforge.net/projects/simulide/files/SimulIDE_0.2.9/SimulIDE_0.2.9-SR1-Win32.zip/download)
  - Buat rangkaian simulasi menggunakan simulide untuk 2 lampu LED yang menyala bergantian, masing-masing menyala selama 2 detik
