@@ -4,6 +4,7 @@ ___
 - Buat rangakaian mikrokontroler dengan LCD pada simulide, yang menampilkan nama dan NIM, yang terus bergerak bergeser,  misal: Budi 18212001
  - kirim file program dan rangkaian ke email budi.santoso@asia.ac.id (dengan nama dan NIM), subject: UAS
  - Batas akhir Rabu 30 Januari 2019
+ - lihat dan pelajari file pelajaridancoba.pdf untuk mengerjakan
  
  ## ---
 Tugas: 
